@@ -1,0 +1,52 @@
+body {
+    background-image: url("black-texture.jpg");
+    background-color: #252525;
+    background-size: cover;
+    font-family: 'Arial', 'Helvetica Neue','Open Sans', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #000;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #000;
+
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #AE01FE;
+}
+
+#save-btn {
+    background: #6CC6B8;
+
+}
+
+.container {
+    background: #F8D426;
+    padding: 20px;
+    margin: auto;
+    width: 80%;
+    border-radius: 5px;
+}
+
+
